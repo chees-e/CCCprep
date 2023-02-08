@@ -1,10 +1,10 @@
-###############################################################################################
+###########################################################################################
 #
 # > Question 1 Exercise 3
 #
 # > Description:
-#         Given two integers X and Y, and the following functions f(X, Y) and g(X, Y), determine
-#     which function will yield a larger result
+#         Given two integers X and Y, and the following functions f(X, Y) and g(X, Y), 
+#     determine which function will yield a larger result.
 #
 #     f(X, Y) = 2 * X + 3 * Y
 #     g(X, Y) = X ^ 2 - Y
@@ -34,7 +34,10 @@
 # > Sample Output 2:
 #     f
 #
-###############################################################################################
+# > Run command:
+#     python3 Q1/2_Exercise/E3.py
+#
+###########################################################################################
 
 # Write your code here
 

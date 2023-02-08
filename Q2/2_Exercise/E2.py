@@ -1,13 +1,12 @@
-###############################################################################################
+###########################################################################################
 #
 # > Question 2 & 3 Exercise 2
 #
 # > Description:
-#         One day, a group of N friends tried an experiment where they each paid for another
-#     person's groceries. Given N integers representing the cost of each person's groceries,
-#     determine the number of people who paid more for the other person's groceries than if
-#     they only paid for their own.
-#
+#         One day, a group of N friends tried an experiment where they each paid for 
+#     another person's groceries. Given N integers representing the cost of each person's 
+#     groceries, determine the number of people who paid more for the other person's 
+#     groceries than if they only paid for their own.
 #
 # > Input Specification:
 #         The first line of input will contain an integer N. There will be N lines of input
@@ -41,7 +40,10 @@
 # > Sample Output 2:
 #     0
 #
-###############################################################################################
+# > Run command:
+#     python3 Q2/2_Exercise/E2.py
+#
+###########################################################################################
 
 # Write your code here
 

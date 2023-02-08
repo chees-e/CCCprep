@@ -1,14 +1,14 @@
-###############################################################################################
+###########################################################################################
 #
 # > Question 5 Exercise 1
 #
 # > Description:
 #         You are being placed in a M by N maze with obstacles. You start at the top left
-#     corner (1, 1) and you want to get to bottom right corner (M, N). You employ the following
-#     strategy: for every move you first choose direction (up, down, left right), then keep
-#     going straight in that direction until you hit a obstacle or a wall, then repeat the
-#     process by choosing a new direction. Determine whether or not you are able to get to the
-#     goal by following this strategy.
+#     corner (1, 1) and you want to get to bottom right corner (M, N). You employ the 
+#     following strategy: for every move you first choose direction (up, down, left 
+#     right), then keep going straight in that direction until you hit a obstacle or a 
+#     wall, then repeat the process by choosing a new direction. Determine whether or not 
+#     you are able to get to the goal by following this strategy.
 #
 #     Bonus 1: Determine the minimum number of moves required to reach the goal.
 #     Bonus 2: Determine the type of moves required to reach the goal.
@@ -16,8 +16,8 @@
 # > Input Specification:
 #         The first two lines will contain integers M and N. Then, there will be M lines of
 #     string of length N representing the maze. Obstacles will be represented by the
-#     character "X" while empty spaces will be presented by the character ".". You may assume
-#     (1, 1) and (M, N) are never "X".
+#     character "X" while empty spaces will be presented by the character ".". You may 
+#     assume (1, 1) and (M, N) are never "X".
 #     2 <= M, N <= 500
 #     0 <= obstacles <= M * N - 2
 #
@@ -46,7 +46,10 @@
 # > Sample Output 2:
 #     False
 #
-###############################################################################################
+# > Run command:
+#     python3 Q5/2_Exercise/E1.py
+#
+###########################################################################################
 
 # Write your code here
 

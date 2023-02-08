@@ -1,11 +1,11 @@
-###############################################################################################
+###########################################################################################
 #
 # > Question 1 Exercise 2
 #
 # > Description:
-#         You are collecting apples, Your goal is to collect G apples. There are T apple trees,
-#     each can give K apples. You have a basket that can hold up to B apples. You want to
-#     know if you can collect enough apples from the trees with one trip.
+#         You are collecting apples, Your goal is to collect G apples. There are T apple 
+#     trees, each can give K apples. You have a basket that can hold up to B apples. You 
+#     want to know if you can collect enough apples from the trees with one trip.
 #
 # > Input Specification:
 #         Input will four lines of input, in the following order: G, T, K, B.
@@ -34,7 +34,10 @@
 # > Sample Output 2:
 #     False
 #
-###############################################################################################
+# > Run command:
+#     python3 Q1/2_Exercise/E2.py
+#
+###########################################################################################
 
 # Write your code here
 

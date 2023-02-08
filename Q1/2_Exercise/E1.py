@@ -1,4 +1,4 @@
-###############################################################################################
+###########################################################################################
 #
 # > Question 1 Exercise 1
 #
@@ -7,7 +7,8 @@
 #     Given N cupcakes and K students, determine the minimum number of of cupcakes each
 #     student is going to get if cupcakes are distributed in a way that the highest and
 #     lowest number of cupcakes given to any student differs by at most 1. Also determine
-#     if it is possible for all students to get the same number of cupcakes with no leftovers.
+#     if it is possible for all students to get the same number of cupcakes with no   
+#     leftovers.
 #
 # > Input Specification:
 #         Input will be two lines. First line will contain the integer N, the second line
@@ -16,9 +17,9 @@
 #     0 <= K <= 1,000
 #
 # > Output Specification:
-#         Output will be two lines. First line will contain the integer equal to the minimum
-#     number of cupcakes any student can get, second line will contain True / False equal to
-#     whether if all students can get the same number of cupcakes.
+#         Output will be two lines. First line will contain the integer equal to the 
+#     minimum number of cupcakes any student can get, second line will contain 
+#     True / False equal to whether if all students can get the same number of cupcakes.
 #
 # > Sample Input 1:
 #     20
@@ -36,22 +37,12 @@
 #     4
 #     False
 #
-###############################################################################################
+# > Run command:
+#     python3 Q1/2_Exercise/E1.py
+#
+###########################################################################################
 
 # Write your code here
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

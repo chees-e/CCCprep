@@ -1,4 +1,4 @@
-###############################################################################################
+###########################################################################################
 #
 # > Question 4 Exercise 3
 #
@@ -14,7 +14,7 @@
 #     0 <= num of cuts <= 25
 #
 # > Output Specification:
-#         Output will be True / False indicating whether or not s1 contains an anagram of s2.
+#         Output an integer representing the minimum number of cuts needed.
 #
 # > Sample Input 1:
 #     opqrstuvwxyzfghijklmnabcde
@@ -27,8 +27,11 @@
 #
 # > Sample Output 2:
 #     0
-
-###############################################################################################
+#
+# > Run command:
+#     python3 Q4/2_Exercise/E3.py
+#
+###########################################################################################
 
 # Write your code here
 

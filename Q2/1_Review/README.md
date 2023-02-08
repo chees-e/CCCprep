@@ -13,6 +13,7 @@
   1. First input takes a number N that represents the number of inputs after. (for loop)
   2. Keep taking inputs until a stopping keyword (while loop)
 - It is also very common to have multiple inputs on the same line, in which case you will need to use the `.split()` function to separate the strings.
+  - You can also use `list(lst)` if you want to separate strings digit by digit 
 - You will often need to make a few variables in order to solve the problems, think carefully about the information you need to remember.
 - String decoding problems are becoming somewhat popular for question 2 & 3. Do go over the examples we covered in class.
 - Make best use of the visuals!
