@@ -1,6 +1,7 @@
 # CCCprep
+by Shawn
 
-# I am still working on this page
+## Please fork this repl. Do not modify anything. Thank you
 
 ### General Tips
 - Use sample input/output to test all your solutions

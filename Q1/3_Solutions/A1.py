@@ -38,21 +38,13 @@
 #     False
 #
 # > Run command:
-#     python3 Q1/2_Exercise/E1.py
+#     python3 Q1/3_Solutions/A1.py
 #
 ###########################################################################################
 
-# Write your code here
+# Solution 
 N = int(input())
 K = int(input())
 
-print(int(N/K))
-if N%K == 0:
-  print("True")
-else:
-  print("False")
-
-
-
-
-
+print(N // K)
+print(N % K == 0)

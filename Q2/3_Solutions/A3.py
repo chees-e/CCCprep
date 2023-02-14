@@ -42,11 +42,26 @@
 #     1
 #
 # > Run command:
-#     python3 Q2/2_Exercise/E3.py
+#     python3 Q2/3_Solutions/A3.py
 #
 ###########################################################################################
 
 # Write your code here
+square_x, square_y = input().split()
+square_x, square_y = int(square_x), int(square_y)
+side = int(input())
+N = int(input())
+
+ans = 0
+
+for i in range(N):
+  cur_x, cur_y = input().split()
+
+  if square_x <= int(cur_x) <= square_x + side - 1:
+    if square_y <= int(cur_y) <= square_y + side - 1:
+      ans += 1
+
+print(ans)
 
 
 

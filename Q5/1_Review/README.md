@@ -15,8 +15,8 @@
   - Search problem
   - Both combined
 - Think about what search technique should be used
-  - BFS: queue (`lst.pop(0)`), search for the shortest paths first, used for when you want to find a minimum solution
-  - DFS: stack (`lst.pop()`), search for the longest paths first, used when you need a solution with fixed steps
+  - BFS: queue (`todo.pop(0)`), search for the shortest paths first, used for when you want to find a minimum/shortest solution
+  - DFS: stack (`todo.pop()`), search for the longest paths first, used when you need a solution with fixed steps
 - I recommend using an iterative approach (with the 'todo' list, or frontier), but you can use recursion if you are more comfortable with it
 - Recursion is still important: for example divide and conquer algorithms (2022 CCC P5)
 - 2D lists are quite common, make sure you know how to construct one, and iterative through one using double for loop
