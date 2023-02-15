@@ -3,11 +3,15 @@
 ### Essential Skills:
 
 - ** 2D list operations
-- ** Search (iterative / recursive)
+- ** Search
+  - (iterative / recursive)
+  - (DFS / BFS)
 - Dynamic programming
 - Divide and Conquer
 - Sorting
-
+- List comprehension (not necessary)
+  - `lst = [i for i in range(lst) if i % 2 == 0]`
+    
 ### Tips:
 
 - There are two types of questions that almost always show up for question 5:

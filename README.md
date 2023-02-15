@@ -1,10 +1,10 @@
-# CCCprep
+ # CCCprep
 by Shawn
 
 ## Please fork this repl. Do not modify anything. Thank you
 
 ### General Tips
-- Use sample input/output to test all your solutions
+- Use sample input/output to test all your solutions (and to understand the question)
 - Break the questions down first before writing
 - Try to get partial marks if the question is too hard
 - Read the problem description, input/output specifications very carefully

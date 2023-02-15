@@ -3,7 +3,9 @@
 ### Essential Skills:
 
 - Arithmetic Operations
-- Logical expressions 
+  - `+`,`-`,`*`,`/`,`//`,`**`,`%`
+- Logical expressions
+  - `and`, `or`, `not`
 - if / elif / else statements
 
 ### Tips:
